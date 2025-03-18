@@ -1,1 +1,3 @@
 To run this demo Python version 3.11 must be installed.  The file modpaths.txt must be edited to match the paths on the computer running the demo.  To run the demo double-click demo.bat.
+
+Note that the snow model, snow.py, may not be the latest/current versiom.
